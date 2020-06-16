@@ -1,0 +1,24 @@
+{
+  "name": "kubilay-uysal",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "kubilay": "echo 'Benim adım kubilay'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Kubilay Uysal",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.19",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}
